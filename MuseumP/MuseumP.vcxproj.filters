@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{87f1e6cc-cdb0-4cbb-85ed-882c08382ae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Database">
+      <UniqueIdentifier>{3402ab57-171f-420f-88ab-f679d5f6b8bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Users">
+      <UniqueIdentifier>{dfa30115-5b2d-4e20-b642-f6bcdd6bae0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Users\Manager">
+      <UniqueIdentifier>{3f7985c2-5847-4551-b550-ee17f2996474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Users\Admin">
+      <UniqueIdentifier>{4080e1f2-024b-4e81-a719-0c9348f8b3e2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ticket.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="TicketSale.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Database.cpp">
+      <Filter>Database</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Auth.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Admin.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager.cpp">
+      <Filter>Users\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerTicket.cpp">
+      <Filter>Users\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerVisitor.cpp">
+      <Filter>Users\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerTicketSale.cpp">
+      <Filter>Users\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerTour.cpp">
+      <Filter>Users\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerExhibition.cpp">
+      <Filter>Users\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminAuthor.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminExhibition.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminExhibitionAuthor.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminGuide.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminHall.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminMuseum.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminSeller.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminSponsor.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminTicket.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminTicketSeller.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminTour.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminUser.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminVisitor.cpp">
+      <Filter>Users\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewTicketsVisitors.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ticket.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="TicketSale.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>Database</Filter>
+    </ClInclude>
+    <ClInclude Include="Auth.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Admin.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.h">
+      <Filter>Users\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerExhibition.h">
+      <Filter>Users\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerTicket.h">
+      <Filter>Users\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerTicketSale.h">
+      <Filter>Users\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerTour.h">
+      <Filter>Users\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerVisitor.h">
+      <Filter>Users\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminAuthor.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminExhibition.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminExhibitionAuthor.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminGuide.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminHall.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminMuseum.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminSeller.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminSponsor.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminTicket.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminTicketSeller.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminTour.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminUser.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminVisitor.h">
+      <Filter>Users\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewTicketsVisitors.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

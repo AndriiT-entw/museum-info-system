@@ -1,0 +1,870 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#VisualStudio\\MuseumP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerTour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicketSale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerTicketSale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerTicket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerExhibition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerExhibition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminAuthor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminAuthor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ViewTicketsVisitors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ViewTicketsVisitors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\TicketSale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\TicketSale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Ticket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Ticket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Auth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Auth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\TicketSale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\TicketSale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminGuide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminGuide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibitionAuthor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminExhibitionAuthor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ViewTicketsVisitors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ViewTicketsVisitors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminAuthor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminAuthor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminUser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminUser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicketSeller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminTicketSeller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminTour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSponsor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminSponsor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminTicket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminExhibition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSeller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminSeller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminHall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminHall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminGuide.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminGuide.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminMuseum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminMuseum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicketSeller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminTicketSeller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibitionAuthor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminExhibitionAuthor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTour.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminTour.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerExhibition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerExhibition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminTicket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSponsor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminSponsor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSeller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminSeller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminMuseum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminMuseum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminHall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminHall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\AdminExhibition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTour.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerTour.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerTicket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicketSale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\ManagerTicketSale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Auth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Auth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|D:\\C#VisualStudio\\MuseumP\\MuseumP\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DF101DF-704E-4DDE-A64C-DAB250E4FA12}|MuseumP\\MuseumP.vcxproj|solutionrelative:MuseumP\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Manager.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\Manager.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Manager.cpp",
+              "RelativeToolTip": "MuseumP\\Manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T12:11:27.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Admin.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\Admin.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Admin.cpp",
+              "RelativeToolTip": "MuseumP\\Admin.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAACkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T10:04:11.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminAuthor.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminAuthor.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminAuthor.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminAuthor.cpp",
+              "RelativeToolTip": "MuseumP\\AdminAuthor.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T14:50:37.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerExhibition.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerExhibition.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerExhibition.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerExhibition.cpp",
+              "RelativeToolTip": "MuseumP\\ManagerExhibition.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T15:35:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerTicket.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicket.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerTicket.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicket.cpp",
+              "RelativeToolTip": "MuseumP\\ManagerTicket.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T15:30:18.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerTicketSale.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicketSale.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerTicketSale.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicketSale.cpp",
+              "RelativeToolTip": "MuseumP\\ManagerTicketSale.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T15:34:14.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerTour.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTour.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerTour.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTour.cpp",
+              "RelativeToolTip": "MuseumP\\ManagerTour.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T15:34:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerVisitor.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerVisitor.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerVisitor.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerVisitor.cpp",
+              "RelativeToolTip": "MuseumP\\ManagerVisitor.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T15:33:01.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewTicketsVisitors.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ViewTicketsVisitors.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\ViewTicketsVisitors.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ViewTicketsVisitors.cpp",
+              "RelativeToolTip": "MuseumP\\ViewTicketsVisitors.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T13:05:43.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketSale.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\TicketSale.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\TicketSale.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\TicketSale.cpp",
+              "RelativeToolTip": "MuseumP\\TicketSale.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T10:08:47.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Ticket.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\Ticket.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Ticket.cpp",
+              "RelativeToolTip": "MuseumP\\Ticket.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T10:05:35.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auth.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Auth.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\Auth.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Auth.cpp",
+              "RelativeToolTip": "MuseumP\\Auth.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T12:08:39.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Database.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\Database.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Database.cpp",
+              "RelativeToolTip": "MuseumP\\Database.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T08:28:38.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\main.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\main.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\main.cpp",
+              "RelativeToolTip": "MuseumP\\main.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T09:04:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminGuide.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminGuide.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminGuide.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminGuide.cpp",
+              "RelativeToolTip": "MuseumP\\AdminGuide.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:01:39.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketSale.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\TicketSale.h",
+              "RelativeDocumentMoniker": "MuseumP\\TicketSale.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\TicketSale.h",
+              "RelativeToolTip": "MuseumP\\TicketSale.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-06T10:28:03.713Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminExhibitionAuthor.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibitionAuthor.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminExhibitionAuthor.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibitionAuthor.cpp",
+              "RelativeToolTip": "MuseumP\\AdminExhibitionAuthor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:00:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminVisitor.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminVisitor.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminVisitor.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminVisitor.cpp",
+              "RelativeToolTip": "MuseumP\\AdminVisitor.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:14:32.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewTicketsVisitors.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ViewTicketsVisitors.h",
+              "RelativeDocumentMoniker": "MuseumP\\ViewTicketsVisitors.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ViewTicketsVisitors.h",
+              "RelativeToolTip": "MuseumP\\ViewTicketsVisitors.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T13:06:18.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ticket.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Ticket.h",
+              "RelativeDocumentMoniker": "MuseumP\\Ticket.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Ticket.h",
+              "RelativeToolTip": "MuseumP\\Ticket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-06T10:27:20.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Admin.h",
+              "RelativeDocumentMoniker": "MuseumP\\Admin.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Admin.h",
+              "RelativeToolTip": "MuseumP\\Admin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T10:04:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminAuthor.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminAuthor.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminAuthor.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminAuthor.h",
+              "RelativeToolTip": "MuseumP\\AdminAuthor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:27:07.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminVisitor.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminVisitor.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminVisitor.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminVisitor.h",
+              "RelativeToolTip": "MuseumP\\AdminVisitor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T19:11:33.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminUser.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminUser.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminUser.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminUser.cpp",
+              "RelativeToolTip": "MuseumP\\AdminUser.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:14:17.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManagerVisitor.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerVisitor.h",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerVisitor.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerVisitor.h",
+              "RelativeToolTip": "MuseumP\\ManagerVisitor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T11:00:07.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminTour.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTour.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminTour.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTour.cpp",
+              "RelativeToolTip": "MuseumP\\AdminTour.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:14:02.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminTicketSeller.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicketSeller.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminTicketSeller.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicketSeller.cpp",
+              "RelativeToolTip": "MuseumP\\AdminTicketSeller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:13:48.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminTicket.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicket.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminTicket.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicket.cpp",
+              "RelativeToolTip": "MuseumP\\AdminTicket.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:13:30.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminSponsor.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSponsor.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminSponsor.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSponsor.cpp",
+              "RelativeToolTip": "MuseumP\\AdminSponsor.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:12:59.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminSeller.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSeller.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminSeller.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSeller.cpp",
+              "RelativeToolTip": "MuseumP\\AdminSeller.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:12:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminHall.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminHall.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminHall.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminHall.cpp",
+              "RelativeToolTip": "MuseumP\\AdminHall.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:01:55.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminExhibition.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibition.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminExhibition.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibition.cpp",
+              "RelativeToolTip": "MuseumP\\AdminExhibition.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:00:06.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminGuide.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminGuide.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminGuide.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminGuide.h",
+              "RelativeToolTip": "MuseumP\\AdminGuide.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:43:40.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminMuseum.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminMuseum.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\AdminMuseum.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminMuseum.cpp",
+              "RelativeToolTip": "MuseumP\\AdminMuseum.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:12:29.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminTicketSeller.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicketSeller.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminTicketSeller.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicketSeller.h",
+              "RelativeToolTip": "MuseumP\\AdminTicketSeller.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:49:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminExhibitionAuthor.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibitionAuthor.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminExhibitionAuthor.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibitionAuthor.h",
+              "RelativeToolTip": "MuseumP\\AdminExhibitionAuthor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:41:35.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminTour.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTour.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminTour.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTour.h",
+              "RelativeToolTip": "MuseumP\\AdminTour.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:50:20.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ManagerExhibition.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerExhibition.h",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerExhibition.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerExhibition.h",
+              "RelativeToolTip": "MuseumP\\ManagerExhibition.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T10:58:54.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminUser.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminUser.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminUser.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminUser.h",
+              "RelativeToolTip": "MuseumP\\AdminUser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:51:07.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Manager.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Manager.h",
+              "RelativeDocumentMoniker": "MuseumP\\Manager.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Manager.h",
+              "RelativeToolTip": "MuseumP\\Manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:11:46.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminTicket.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicket.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminTicket.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminTicket.h",
+              "RelativeToolTip": "MuseumP\\AdminTicket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:47:38.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminSponsor.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSponsor.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminSponsor.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSponsor.h",
+              "RelativeToolTip": "MuseumP\\AdminSponsor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:46:53.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminSeller.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSeller.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminSeller.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminSeller.h",
+              "RelativeToolTip": "MuseumP\\AdminSeller.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:45:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminMuseum.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminMuseum.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminMuseum.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminMuseum.h",
+              "RelativeToolTip": "MuseumP\\AdminMuseum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:45:03.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdminHall.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminHall.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminHall.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminHall.h",
+              "RelativeToolTip": "MuseumP\\AdminHall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:43:57.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminExhibition.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibition.h",
+              "RelativeDocumentMoniker": "MuseumP\\AdminExhibition.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\AdminExhibition.h",
+              "RelativeToolTip": "MuseumP\\AdminExhibition.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:34:06.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ManagerTour.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTour.h",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerTour.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTour.h",
+              "RelativeToolTip": "MuseumP\\ManagerTour.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T10:59:51.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ManagerTicket.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicket.h",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerTicket.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicket.h",
+              "RelativeToolTip": "MuseumP\\ManagerTicket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T10:59:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ManagerTicketSale.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicketSale.h",
+              "RelativeDocumentMoniker": "MuseumP\\ManagerTicketSale.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\ManagerTicketSale.h",
+              "RelativeToolTip": "MuseumP\\ManagerTicketSale.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T10:59:32.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Auth.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Auth.h",
+              "RelativeDocumentMoniker": "MuseumP\\Auth.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Auth.h",
+              "RelativeToolTip": "MuseumP\\Auth.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T12:08:57.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Database.h",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Database.h",
+              "RelativeDocumentMoniker": "MuseumP\\Database.h",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\Database.h",
+              "RelativeToolTip": "MuseumP\\Database.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-06T09:04:44.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\test.cpp",
+              "RelativeDocumentMoniker": "MuseumP\\test.cpp",
+              "ToolTip": "D:\\C#VisualStudio\\MuseumP\\MuseumP\\test.cpp",
+              "RelativeToolTip": "MuseumP\\test.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T20:17:00.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
