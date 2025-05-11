@@ -31,9 +31,8 @@ This is a C++ console-based information system for managing museum operations, i
 ├── main.cpp
 ├── database/ # DB connection handling
 ├── Users/ # Admin and Manager menus
-├── Models/ # Business logic classes
-├── sql/ # SQL scripts
-└── docs/ # Documentation and report (optional)
+└── Models/ # Business logic classes
+
 
 
 ## ⚙️ Setup Instructions
